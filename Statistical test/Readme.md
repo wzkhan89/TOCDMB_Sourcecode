@@ -1,0 +1,2 @@
+Download the source code from drawNemenyi and create/update demo.m file inside the library and provide the error rate as an input. This file has already been created inside TOCDMB_Recall_Corrected/statistical test/demo.m. 
+Note: For simplicity the calculated error rate across all real-world datasets has been added to the demo.m, Which is used as an input for the Friedman and Neyamani test.
