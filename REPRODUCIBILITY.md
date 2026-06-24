@@ -33,11 +33,9 @@ my\_g2\_test.m
 my\_fisherz\_test.m  
 subsets1.m, mysetdiff.m, myunion.m, STA.m, ...
 evaluation/
-evaluation\_MB.m  
-TOCDmb\_FS.m  
+evaluation\_MB.m    
 run\_TOCDmb\_tables.m  
-run\_TOCDmb\_single.m  
-example\_TOCDmb\_Z\_single.m  
+run\_TOCDmb\_single.m    
 data/
 
 
